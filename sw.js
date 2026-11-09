@@ -1,4 +1,4 @@
-const CACHE = 'visitlog-v5-cache';
+const CACHE = 'visitlog-v6-cache';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
